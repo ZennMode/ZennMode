@@ -1,0 +1,4 @@
+- Hi, I’m @ZennMode
+- I’m interested in: Modding
+- I’m currently learning: Python
+- How to reach me: Don't
